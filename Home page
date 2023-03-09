@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Class -->
+    <header class="header">
+        <a href="#" class="logo">Banking Website</a>
+
+        <nav class="nav-items">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <a href="#">Blog</a>
+        <a href="#">Queries</a>
+        </nav>
+    </header>
+
+    <!-- Main Class -->
+    <main>
+        <div class="intro">
+        <h1>Banking Website</h1>
+        <p>About our team</p>
+        <button>Learn More</button>
+        </div>
+
+        <!-- Achievements -->
+        <div class="achievements">
+        <div class="work">
+            <i class="fas fa-atom"></i>
+            <p class="work-heading">Projects</p>
+            <p class="work-text">About project works.</p>
+        </div>
+        <div class="work">
+            <i class="fas fa-skiing"></i>
+            <p class="work-heading">Skills</p>
+            <p class="work-text">About Skills</p>
+        </div>
+        </div>
+
+        <!-- About US -->
+        <div class="about-me">
+            <div class="about-me-text">
+            <h2>About Us</h2>
+            <p>About our team.</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer Class -->
+    <footer class="footer">
+        <div class="bottom-links">
+            <div class="links">
+            <span>More Info</span>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            </div>
+        <div class="links">
+            <span>Social Links</span>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+        </div>
+    </footer>
+</body>
+</html>
