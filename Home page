@@ -24,8 +24,8 @@
     <!-- Main Class -->
     <main>
         <div class="intro">
-        <h1>Banking Website</h1>
-        <p>About our team</p>
+        <h1>Banking Website</h1> 
+        <p>About Bank</p>
         <button>Learn More</button>
         </div>
 
@@ -33,13 +33,18 @@
         <div class="achievements">
         <div class="work">
             <i class="fas fa-atom"></i>
-            <p class="work-heading">Projects</p>
-            <p class="work-text">About project works.</p>
+            <p class="work-heading">Log In</p>
+            <p class="work-text">log In form button</p>
         </div>
         <div class="work">
             <i class="fas fa-skiing"></i>
-            <p class="work-heading">Skills</p>
-            <p class="work-text">About Skills</p>
+            <p class="work-heading">Loan</p>
+            <p class="work-text">Loan Section Button</p>
+        </div>
+        <div class="work">
+            <i class="fas fa-atom"></i>
+            <p class="work-heading">Accounts</p>
+            <p class="work-text">Accounts section Button</p>
         </div>
         </div>
 
